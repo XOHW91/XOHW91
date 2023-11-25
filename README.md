@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 # Baek Joon 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=so4368)](https://solved.ac/so4368)
 
-
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xohw91.github.io/)](https://xohw91.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:so91062412@gmail.com)](mailto:so91062412@gmail.com)
