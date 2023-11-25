@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-// HIT
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXOHW91%2F&count_bg=%23D5B5E9&title_bg=%23C67AFB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-// LOGO
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 
-// STAT
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOHW91&show_icons=true&theme=transparent)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=so4368)](https://solved.ac/so4368/)
